@@ -15,3 +15,6 @@
 // const result = changeArrayEleIndex(arr, 3, 4);
 // console.log(result);
 
+const arr = [3,6,7,1,3,2,4,5,9];
+const arrRev =arr.reverse();
+console.log(arrRev);
